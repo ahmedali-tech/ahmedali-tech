@@ -3,7 +3,7 @@
 <p><em>Software Engineer Student at <a href="https://nust.edu.pk/">NUST</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmed-ali-90091b1b9/)](https://www.linkedin.com/in/ahmed-ali-90091b1b9/)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-ahmed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmed-ali-90091b1b9/)](https://www.linkedin.com/in/ahmed-ali-90091b1b9/)
 
 
 
